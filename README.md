@@ -1,5 +1,6 @@
 [CDN.js](https://cdnjs.com/) Workflow for [Alfred 3](http://www.alfredapp.com)
 ==============================
+#### [DOWNLOAD](https://github.com/kswilster/alfred-cdnjs/releases/download/1.0.0/CDNJS.alfredworkflow)
 #### For when your chrome console just doesn't have the libraries you need
 Import JS libraries through CDN.js with Alfred! You can search through CDN.js for any popular JS library and import it directly into your active Chrome tab.
 
